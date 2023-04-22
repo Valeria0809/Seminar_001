@@ -9,4 +9,4 @@ for(int i = -number; i <= number; i++)
 {
     System.Console.Write(i + " ");
 }
-System.Console.Write(i);
+System.Console.Write("i");
